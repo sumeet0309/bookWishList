@@ -1,1 +1,2 @@
 Effective Java : Joshua Bloch
+Design patterns : GoF
